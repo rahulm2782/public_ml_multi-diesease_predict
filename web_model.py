@@ -94,41 +94,6 @@ if selected == 'Heart Disease prediction':
     
     
 
-#     col1,col2,col3 = st.columns(3)
-
-#     with col1:
-#         age = st.text_input('Age')
-#     with col2:
-#         sex = st.text_input('Gender')
-#     with col3:
-#         cp = st.text_input('Chest Pain Type')
-#     with col1:
-#         trestbps = st.text_input('resting blood pressure')
-#     with col2:
-#         chol = st.text_input('serum cholestoral in mg/dl')
-#     with col3:
-#         fbs = st.text_input('fasting blood sugar > 120 mg/dl')
-#     with col1:
-#         restecg = st.text_input('resting electrocardiographic results')
-#     with col2:
-#         thalach = st.text_input('maximum heart rate achieved')
-
-#     with col3:
-#         exang = st.text_input('exercise induced angina')
-
-#     with col1:
-#         oldpeak = st.text_input('oldpeak')
-#     with col2:
-#         slope  = st.text_input('he slope of the peak')
-
-#     with col3:
-#         ca = st.text_input('number of major vessels colored by flourosopy')
-#     with col1:
-#         thal = st.text_input('thal')
-
-
-
-
     Heart_disease_pred = ''
 
     
